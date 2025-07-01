@@ -44,18 +44,22 @@ This Efi is made with clover and it works for Ventura and Sonoma
 
 ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
+<details>
+  
 # Installation
 <details>
   <summary>💻My Hardware</summary>
   
-| Category    | Component                             |
-|-------------|---------------------------------------|
-| CPU         | Intel Core i5-8350U                   |
-| GPU         | Intel UHD Graphics 620                |
-| SSD         | Intel 256GB M.2 SSD                   |
-| Memory      | 16GB DDR4 2400Mhz                     |
-| Camera      | 720p Camera                           |
-| WiFi & BT   | Intel 18265 Wifi (Helipot)            |
+<details>
+  <summary>Click to expand</summary>
 
+  ## Your heading inside the dropdown
+
+  This is the content that will be hidden until you click the dropdown.
+
+  - You can add lists
+  - Images
+  - Code blocks
+  - 
 </details>
 
