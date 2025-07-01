@@ -22,7 +22,7 @@ This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any ha
 
 # Introduction
 This Efi is made with clover and it works for Ventura and Sonoma
-[link](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
+[Download Helipot -->](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
 <details>
   <summary>💻My Hardware</summary>
   
