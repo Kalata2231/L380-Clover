@@ -87,3 +87,5 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   - Enable **Virtualization** (optional, for macOS performance)  
 
 </details>
+
+#Status
