@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/macOS-Monterey-pink" />
   <img src="https://img.shields.io/badge/macOS-Ventura-orange" />
   <img src="https://img.shields.io/badge/macOS-Sonoma-green" />
-  <img src="https://img.shields.io/badge/macOS-Sequoia-lightgrey" />
   <img src="https://img.shields.io/badge/license-MIT-purple" />
 </p>
 
@@ -23,7 +22,7 @@ This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any ha
 
 # Introduction
 This Efi is made with clover and it works for Ventura and Sonoma
-
+[link](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
 <details>
   <summary>💻My Hardware</summary>
   
@@ -44,3 +43,4 @@ This Efi is made with clover and it works for Ventura and Sonoma
 ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
 </details>
+
