@@ -45,13 +45,14 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
 </details>
-
+# Installation
 <details>
   <summary>🔧 Requirements</summary>
 
-  - macOS Ventura or Sonoma
-  - Clover EFI bootloader installed
-  - Compatible hardware as listed above
+  - Lenovo ThinkPad L380
+  - 32gb Flash Drive
+  - Windows PC with Python
+  - An interne connection
 
 </details>
 
