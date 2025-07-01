@@ -57,14 +57,15 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   - An interne connection
   - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file) [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
 <details>
-  
-  <details>
+
+<details>
+  <summary>💾 How to make USB</summary>
+
+1. Download the macOS installer from the App Store or a trusted source.
+2. Prepare a USB drive (at least 16GB), and format it using Disk Utility as **Mac OS Extended (Journaled)** with **GUID Partition Map**.
+3. Open Terminal and run the following command (replace `MyVolume` with your USB drive name):
+
+```bash
+   sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
     
-  <summary>How to make USB</summary>
-
-  - Lenovo ThinkPad L380
-  - 32gb Flash Drive
-  - Windows PC with Python
-  - An interne connection
-
-</details>
