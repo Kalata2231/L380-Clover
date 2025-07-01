@@ -1,6 +1,6 @@
 # L380 Clover
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a637b00e-ab35-4359-8105-cd9b1804b2f2" alt="L380 EFI" width="600"/>
+  <img src="https://github.com/user-attachments/assets/ed0a3865-b22c-4789-9b06-f363a8ef57e9" alt="L380 EFI" width="600"/>
 </p>
 
 <!-- Badges -->
@@ -46,16 +46,14 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 
 </details>
 
-# Installation
-
 <details>
   <summary>🔧 Requirements</summary>
 
-  - Lenovo ThinkPad L380
-  - 32gb Flash Drive
-  - Windows PC with Python
-  - An interne connection
-  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file) [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
+  - macOS Ventura or Sonoma
+  - Clover EFI bootloader installed
+  - Compatible hardware as listed above
+
+</details>
 
 <details>
   <summary>💾 How to make USB</summary>
@@ -64,7 +62,5 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 2. Prepare a USB drive (at least 16GB), and format it using Disk Utility as **Mac OS Extended (Journaled)** with **GUID Partition Map**.
 3. Open Terminal and run the following command (replace `MyVolume` with your USB drive name):
 
-```bash
+   ```bash
    sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
-
-    
