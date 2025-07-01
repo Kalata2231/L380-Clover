@@ -89,4 +89,26 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 </details>
 
 # Status
-  <summary>🛠️ What's working</summary
+<details>
+  <summary>🧩 Compatibility Status</summary>
+
+| Feature             | Status       | Notes                                                  |
+|---------------------|--------------|--------------------------------------------------------|
+| Bootloader (Clover) | ✅ Working     | Stable boot with Ventura and Sonoma                   |
+| Graphics Accel.     | ✅ Working     | Full acceleration with Intel UHD 620                  |
+| Audio               | ✅ Working     | Internal speakers and headphone jack                  |
+| HDMI                | ✅ Working     | Display output and audio over HDMI                    |
+| Wi-Fi               | ✅ Working     | Using Intel 18265 with HeliPort                       |
+| Bluetooth           | ✅ Working     | Detected and usable                                   |
+| Sleep               | ✅ Working     | Works fine with lid close/wake                        |
+| USB Ports           | ✅ Working     | All USB-A and USB-C ports function normally           |
+| Battery Status      | ✅ Working     | Battery icon and % show in macOS                      |
+| Trackpad/Keyboard   | ✅ Working     | With VoodooPS2Controller                              |
+| Webcam              | ✅ Working     | macOS recognizes and uses it                          |
+| iMessage/FaceTime   | 🔲 Not Tested  | I don't have an apple device to test it with          |
+| Fingerprint Reader  | 🔲 Not Tested  | Not supported in macOS                                |
+| Thunderbolt         | 🔲 Not Tested  | Untested                                              |
+| SD Card Reader      | ❌ Not Workin  | Not tested — may require additional configuration     |
+| Handoff/Airdrop     | ❌ Not Working | No native Wifi                                        |
+
+</details>
