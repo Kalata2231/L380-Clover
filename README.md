@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/badge/license-MIT-purple" />
 </p>
 
-<!-- Status and Version -->
-**Status:** Maintained  
-**Version:** 1.0  
+<p align="center">
+  <strong>Status:</strong> Maintained<br>
+  <strong>Version:</strong> 2.4
+</p>
 
 <details>
   <summary>My Hardware</summary>
