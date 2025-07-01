@@ -113,3 +113,6 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 | Handoff/Airdrop     | ❌ Not Working | No native Wifi                                        |
 
 </details>
+
+# Credits
+Whole repository inpired by MultimediaLucario 
