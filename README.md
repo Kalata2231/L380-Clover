@@ -49,37 +49,41 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 <details>
   <summary>🔧 Requirements</summary>
 
-  - Lenovo ThinkPad L380
-  - 32gb Flash Drive
-  - Windows PC with Python
-  - An interne connection
-  - Mini Tool Partitioning Wizard
-  - Balena Etcher
-  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file) [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
+  - Lenovo ThinkPad L380  
+  - 32GB Flash Drive  
+  - Windows PC with Python  
+  - An internet connection  
+  - MiniTool Partition Wizard  
+  - Balena Etcher  
+  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file)  
+  - [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
 
 </details>
 
 <details>
   <summary>💾 How to make USB</summary>
-  -Flash the .raw file to you're USB
-  -Open Mini Tool Partitioning Wizard
-  -Right click on the 200mb Particion on the flash drive and select Assing letter
-  -Download the repository and unzip it
-  -Delete the files on the particion on the flash drive and place the EFI folder
-  
-  <details>
-  <summary>🔧 Bios Settings</summary>
 
-  - Lenovo ThinkPad L380
-  - 32gb Flash Drive
-  - Windows PC with Python
-  - An interne connection
-  - Mini Tool Partitioning Wizard
-  - Balena Etcher
-  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file) [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
+  1. Flash the `.raw` file (Sonoma or Ventura) to your USB drive using **Balena Etcher**.  
+  2. Open **MiniTool Partition Wizard**.  
+  3. Right-click the 200MB EFI partition on the USB and select **"Assign letter"**.  
+  4. Download and unzip this repository.  
+  5. Delete all existing files from the USB's EFI partition.  
+  6. Copy the `EFI` folder from the repo into the USB’s EFI partition.
 
+</details>
 
+<details>
+  <summary>🛠️ BIOS Settings</summary>
 
+  Make sure the following settings are adjusted in your BIOS:
 
+  - **Disable** Secure Boot  
+  - **Disable** TPM (Trusted Platform Module)  
+  - **Disable** Intel SGX (if available)  
+  - **Enable** USB Boot  
+  - **Enable** UEFI Boot Mode  
+  - Set **SATA Controller Mode** to AHCI  
+  - **Disable** Fast Boot  
+  - Enable **Virtualization** (optional, for macOS performance)  
 
-
+</details>
