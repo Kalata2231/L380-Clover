@@ -88,4 +88,5 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
 
 </details>
 
-#Status
+# Status
+  <summary>🛠️ What's working</summary
