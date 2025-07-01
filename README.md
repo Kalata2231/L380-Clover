@@ -1,5 +1,6 @@
 # L380 Opencore
-![Photo](https://github.com/user-attachments/assets/e3e2208e-8446-4ce2-a202-6b5e071836e5)
+![Untitled-1](https://github.com/user-attachments/assets/ed0a3865-b22c-4789-9b06-f363a8ef57e9)
+
 <details>
   <summary>My Hardware</summary>
   
