@@ -10,17 +10,22 @@
   <img src="https://img.shields.io/badge/macOS-Ventura-orange" />
   <img src="https://img.shields.io/badge/macOS-Sonoma-green" />
   <img src="https://img.shields.io/badge/macOS-Sequoia-lightgrey" />
-  <img src="https://img.shields.io/badge/OpenCore-1.0.4-blue" />
   <img src="https://img.shields.io/badge/license-MIT-purple" />
 </p>
 
 <p align="center">
   <strong>Status:</strong> Maintained<br>
-  <strong>Version:</strong> 2.4
+  <strong>Version:</strong> 1.0
 </p>
 
+# ⚠️ Disclaimer
+This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
+
+# Introduction
+This Efi is made with clover and it works for Ventura and Sonoma
+
 <details>
-  <summary>My Hardware</summary>
+  <summary>💻My Hardware</summary>
   
 | Category    | Component                             |
 |-------------|---------------------------------------|
@@ -33,3 +38,9 @@
 
 </details>
 
+<details>
+  <summary>📸 Photos</summary>
+
+![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
+
+</details>
