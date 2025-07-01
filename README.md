@@ -47,14 +47,18 @@ This Efi is made with clover and it works for Ventura and Sonoma
 # Installation
 
 <details>
-  <summary>📝 Requirements</summary>
- 
-·Lenovo ThinkPad L380
-·Windows with Python
-·32gb Flash Drive
-·Internet Connection (Ethernet if possible)
-·2 Hours of you're time
+  <summary>Click to expand</summary>
 
-</details>
+  ## Your heading inside the dropdown
+
+  This is the content that will be hidden until you click the dropdown.
+
+  - You can add lists
+  - Images
+  - Code blocks
+
+  ```bash
+  echo "You can also add code blocks"
+
 
 
