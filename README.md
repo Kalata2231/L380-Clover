@@ -22,6 +22,7 @@ This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any ha
 
 # Introduction
 This Efi is made with clover and it works for Ventura and Sonoma
+
 [Download Helipot -->](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
 <details>
   <summary>💻My Hardware</summary>
@@ -39,8 +40,19 @@ This Efi is made with clover and it works for Ventura and Sonoma
 
 <details>
   <summary>📸 Photos</summary>
+  
 
 ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
 </details>
+
+# Installation
+ <summary>📝 Requirements</summary>
+·Lenovo ThinkPad L380
+·Windows with Python
+·32gb Flash Drive
+·Internet Connection (Ethernet if possible)
+·2 Hours of you're time
+</details>
+
 
