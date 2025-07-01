@@ -44,9 +44,9 @@ This Efi is made with clover and it works for Ventura and Sonoma
 
 ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
 
-</details>
 
 # Installation
+</details>
  <summary>📝 Requirements</summary>
  
 ·Lenovo ThinkPad L380
