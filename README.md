@@ -1,6 +1,6 @@
 # L380 Clover
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a637b00e-ab35-4359-8105-cd9b1804b2f2" alt="L380 EFI" width="600"/>\
+  <img src="https://github.com/user-attachments/assets/a637b00e-ab35-4359-8105-cd9b1804b2f2" alt="L380 EFI" width="600"/>
 </p>
 
 <!-- Badges -->
@@ -55,6 +55,14 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   - 32gb Flash Drive
   - Windows PC with Python
   - An interne connection
+  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file)
+
+<details>
+  <summary>How to make USB</summary>
+
+  - Lenovo ThinkPad L380
+  - 32gb Flash Drive
+  - Windows PC with Python
+  - An interne connection
 
 </details>
-
