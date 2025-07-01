@@ -1,6 +1,6 @@
 # L380 Clover
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed0a3865-b22c-4789-9b06-f363a8ef57e9" alt="L380 EFI" width="600"/>
+  <img src="https://github.com/user-attachments/assets/a637b00e-ab35-4359-8105-cd9b1804b2f2" alt="L380 EFI" width="600"/>\
 </p>
 
 <!-- Badges -->
