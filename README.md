@@ -21,29 +21,37 @@
 This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
 # Introduction
-This Efi is made with clover and it works for Ventura and Sonoma
+This EFI is made with Clover and it works for Ventura and Sonoma.
 
-[Download Helipot -->](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
+[Download HeliPort -->](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)
+
 <details>
-  <summary>💻My Hardware</summary>
+  <summary>💻 My Hardware</summary>
   
-| Category    | Component                             |
-|-------------|---------------------------------------|
-| CPU         | Intel Core i5-8350U                   |
-| GPU         | Intel UHD Graphics 620                |
-| SSD         | Intel 256GB M.2 SSD                   |
-| Memory      | 16GB DDR4 2400Mhz                     |
-| Camera      | 720p Camera                           |
-| WiFi & BT   | Intel 18265 Wifi (Helipot)            |
+| Category  | Component                   |
+|-----------|-----------------------------|
+| CPU       | Intel Core i5-8350U          |
+| GPU       | Intel UHD Graphics 620       |
+| SSD       | Intel 256GB M.2 SSD          |
+| Memory    | 16GB DDR4 2400Mhz            |
+| Camera    | 720p Camera                  |
+| WiFi & BT | Intel 18265 Wifi (HeliPort)  |
 
 </details>
 
 <details>
   <summary>📸 Photos</summary>
   
-![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
+  ![P7010069](https://github.com/user-attachments/assets/5e346b60-59d2-4c5d-bf8d-dd354759a186)
+
+</details>
 
 <details>
-  
-# Requrements
+  <summary>🔧 Requirements</summary>
+
+  - macOS Ventura or Sonoma
+  - Clover EFI bootloader installed
+  - Compatible hardware as listed above
+
+</details>
 
