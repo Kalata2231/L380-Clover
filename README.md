@@ -69,7 +69,7 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   3. Right-click the 200MB EFI partition on the USB and select **"Assign letter"**.  
   4. Download and unzip this repository.  
   5. Delete all existing files from the USB's EFI partition.  
-  6. Copy the `OC` 'Boot' to a new 'EFI' folder from the repo into the USB’s EFI partition.
+  6. Unzip .EFI and put the EFI folder in the EFI particion on the flash drive.
 
 </details>
 
