@@ -56,8 +56,7 @@ This EFI is made with Clover and it works for Ventura and Sonoma.
   - An internet connection  
   - MiniTool Partition Wizard  
   - Balena Etcher  
-  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file)  
-  - [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file)
+  - [Sonoma](https://www.mediafire.com/file/8eq9rjvf9ef2xju/Olarila+Sonoma+14.7.5.raw/file)  or [Ventura](https://www.mediafire.com/file/9g0bfwjsaffo925/Olarila+Ventura+13.7.6+22H625.raw/file) .raw file
 
 </details>
 
