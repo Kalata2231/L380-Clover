@@ -19,7 +19,7 @@
 </p>
 
 # ⚠️ Disclaimer
-This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
+This guide is only for the Lenovo ThinkPad L380. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
 # Introduction
 This EFI is made with Clover and it works for Ventura and Sonoma.
